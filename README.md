@@ -20,7 +20,7 @@ It's composed by a simple desktop application that consume the Bamboo rest api t
 
 	https://[bamboo-host]/rest/api/latest/result.json?expand=results.result
 
-## Queue
+### Queue
 
 	https://[bamboo-host]/rest/api/latest/queue.json?expand=queuedBuilds
 
