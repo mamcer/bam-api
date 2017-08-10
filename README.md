@@ -25,6 +25,6 @@ https://[bamboo-host]/rest/api/latest/queue.json?expand=queuedBuilds
 
 ## Official Documentation
 
-[](https://developer.atlassian.com/bamboodev/rest-apis/using-the-bamboo-rest-apis)
+[https://developer.atlassian.com/bamboodev/rest-apis/using-the-bamboo-rest-apis](https://developer.atlassian.com/bamboodev/rest-apis/using-the-bamboo-rest-apis)
 
-[](https://developer.atlassian.com/bamboodev/rest-apis/bamboo-rest-resources)
+[https://developer.atlassian.com/bamboodev/rest-apis/bamboo-rest-resources](https://developer.atlassian.com/bamboodev/rest-apis/bamboo-rest-resources)
