@@ -1,5 +1,8 @@
 # Bamboo API
 
+This project was originally created back in 2015. The motivation was to collect different metrics from an Atlassian Bamboo continuous integration server. Metrics like: Project quantity, plan quantity, average plan per project, average time to fix, etc.
+
+
 ## Reference
 
 *Projects*
