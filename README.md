@@ -6,9 +6,9 @@ It's composed by a simple desktop application that consume the Bamboo rest api t
 
 ## Screenshots
 
-![Screenshot 01](Main\Doc\bamapi01.jpg)
+![Screenshot 01](https://raw.githubusercontent.com/mamcer/bam-api/original-version/Main/Doc/bamapi01.jpg)
 
-![Screenshot 02](Main\Doc\bamapi02.jpg)
+![Screenshot 02](https://raw.githubusercontent.com/mamcer/bam-api/original-version/Main/Doc/bamapi02.jpg)
 
 ## Reference
 
