@@ -1,0 +1,1 @@
+C:\root\tmp\src\bamboo-api\.sonarqube\out\\BamApi.Core_4350

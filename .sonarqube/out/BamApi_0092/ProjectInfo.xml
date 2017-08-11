@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>BamApi</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>a6976d1b-97d8-4a4f-b633-f67696958db3</ProjectGuid>
+  <FullPath>C:\root\tmp\src\bamboo-api\Src\BamApi\BamApi.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\root\tmp\src\bamboo-api\.sonarqube\out\\BamApi_0092\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\root\tmp\src\bamboo-api\Src\BamApi\bin\Debug\BamApi.exe.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\root\tmp\src\bamboo-api\.sonarqube\out\\BamApi_0092</Property>
+    <Property Name="sonar.stylecop.projectFilePath">C:\root\tmp\src\bamboo-api\Src\BamApi\BamApi.csproj</Property>
+  </AnalysisSettings>
+</ProjectInfo>

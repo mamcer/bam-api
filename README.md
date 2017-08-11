@@ -29,3 +29,7 @@ It's composed by a simple desktop application that consume the Bamboo rest api t
 [https://developer.atlassian.com/bamboodev/rest-apis/using-the-bamboo-rest-apis](https://developer.atlassian.com/bamboodev/rest-apis/using-the-bamboo-rest-apis)
 
 [https://developer.atlassian.com/bamboodev/rest-apis/bamboo-rest-resources](https://developer.atlassian.com/bamboodev/rest-apis/bamboo-rest-resources)
+
+## Credits
+
+Icon made by [Bogdan Rosu](https://www.flaticon.com/authors/bogdan-rosu) from [www.flaticon.com](www.flaticon.com) 

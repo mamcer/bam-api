@@ -1,0 +1,13 @@
+S
+JC:\root\tmp\src\bamboo-api\Src\BamApi.Core\..\Common\GlobalAssemblyInfo.csutf-8?
+6C:\root\tmp\src\bamboo-api\Src\BamApi.Core\Branches.csutf-8A
+8C:\root\tmp\src\bamboo-api\Src\BamApi.Core\InfoResult.csutf-8;
+2C:\root\tmp\src\bamboo-api\Src\BamApi.Core\Link.csutf-8?
+6C:\root\tmp\src\bamboo-api\Src\BamApi.Core\PlanInfo.csutf-8@
+7C:\root\tmp\src\bamboo-api\Src\BamApi.Core\PlansInfo.csutf-8B
+9C:\root\tmp\src\bamboo-api\Src\BamApi.Core\ProjectInfo.csutf-8D
+;C:\root\tmp\src\bamboo-api\Src\BamApi.Core\ProjectResult.csutf-8C
+:C:\root\tmp\src\bamboo-api\Src\BamApi.Core\ProjectsInfo.csutf-8N
+EC:\root\tmp\src\bamboo-api\Src\BamApi.Core\Properties\AssemblyInfo.csutf-8<
+3C:\root\tmp\src\bamboo-api\Src\BamApi.Core\Stage.csutf-8=
+4C:\root\tmp\src\bamboo-api\Src\BamApi.Core\Stages.csutf-8
