@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Mario Moreno")]
 [assembly: AssemblyProduct("BamApi")]
-[assembly: AssemblyCopyright("2017")]
+[assembly: AssemblyCopyright("2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
