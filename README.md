@@ -33,3 +33,8 @@ It is composed by a simple desktop application that consume the Bamboo rest api 
 [https://developer.atlassian.com/bamboodev/rest-apis/using-the-bamboo-rest-apis](https://developer.atlassian.com/bamboodev/rest-apis/using-the-bamboo-rest-apis)
 
 [https://developer.atlassian.com/bamboodev/rest-apis/bamboo-rest-resources](https://developer.atlassian.com/bamboodev/rest-apis/bamboo-rest-resources)
+
+## Technologies
+
+- Visual Studio 2013
+- .NET Framework 4.0
