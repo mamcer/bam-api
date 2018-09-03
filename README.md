@@ -2,6 +2,8 @@
 
 In `original` branch you will find the original source code for this application. In `master` an upgraded, refactored version.
 
+> More details about why I published this project in [this blog post](https://mamcer.github.io/2018-09-02-i-cleaned-up-my-virtual-basement/)
+
 ## Description
 
 This project was originally created in 2015. The main motivation was to collect different metrics from an Atlassian Bamboo continuous integration server. Metrics like: project quantity, plan quantity, average plan per project, average time to fix, etc.
